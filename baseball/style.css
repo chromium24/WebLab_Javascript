@@ -1,0 +1,31 @@
+body{
+background-color: #fff;
+}
+
+#field
+{
+    margin: 50px auto;
+    width: 550px;
+    height: 550px;
+    background-color: green;
+}
+
+.path1
+{
+    width: 350px;
+    height: 180px;
+    position: relative; top: 75px;
+    background-color: tan;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+    margin: 30px auto;
+}
+
+#infield {
+    width: 248px;
+    height: 248px;
+    background-color: tan;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    position: relative; left: 150px; top: -78px;
+}
